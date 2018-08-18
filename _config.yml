@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Zhangjie Cao"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Zhangjie Cao"
+description              : &description "Ph.D. candidate of Computer Science Department, Stanford University"
 url                      : https://caozhangjie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caozhangjie/caozhangjie.github.io"
@@ -82,7 +82,7 @@ author:
   name             : "Zhangjie Cao"
   avatar           : "profile.png"
   bio              : "Ph.D. candidate of Computer Science, Stanford University"
-  location         : "Stanford California"
+  location         : "Stanford, California"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=pA-TqMEAAAAJ"
   email            : caozhangjie14@gmail.com
