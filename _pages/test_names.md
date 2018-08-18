@@ -1,7 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=pA-TqMEAAAAJ)"
-permalink: /test_names/
+title: "add new pages"
+permalink: /test_pages/
 author_profile: true
 ---
-
-ddddddddddddddddd

@@ -6,8 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "test_names"
-    url: /test_names/
+  - title: "Contact"
+    url: /contact/
+
+#  - title: "test_pages"
+#    url: /test_pages/   
 
 #  - title: "Talks"
 #    url: /talks/    
