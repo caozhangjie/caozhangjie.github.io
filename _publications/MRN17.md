@@ -1,0 +1,13 @@
+---
+title: "Learning Multiple Tasks with Multilinear Relationship Networks"
+collection: publications
+permalink: /publications/MRN17
+venue: "Neural Information Processing Systems (NIPS), 2017"
+date: 2017-12-08
+citation: 'Mingsheng Long, <b>Zhangjie Cao</b>, Jianmin Wang, Philip S. Yu. <i>Neural Information Processing Systems</i> <b>NIPS 2017</b>.'
+---
+
+[[PDF]](http://caozhangjie.github.io/files/MRN17.pdf)
+
+## Abstract
+Deep networks trained on large-scale data can learn transferable features to promote learning multiple tasks. Since deep features eventually transition from general to specific along deep networks, a fundamental problem of multi-task learning is how to exploit the task relatedness underlying parameter tensors and improve feature transferability in the multiple task-specific layers. This paper presents Multilinear Relationship Networks (MRN) that discover the task relationships based on novel tensor normal priors over parameter tensors of multiple task-specific layers in deep convolutional networks. By jointly learning transferable features and multilinear relationships of tasks and features, MRN is able to alleviate the dilemma of negative- transfer in the feature layers and under-transfer in the classifier layer. Experiments show that MRN yields state-of-the-art results on three multi-task learning datasets.
