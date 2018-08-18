@@ -1,16 +1,9 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=pA-TqMEAAAAJ)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Deep Learning
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[HashNet: Deep Learning to Hash by Continuation](http://lantaoyu.com/publications/HashNet)</b> <br> <b>Zhangjie Cao</b>, Mingsheng Long, Jianmin Wang, Philip S. Yu. <i>International Conference on Computer Vision (ICCV), 2017.</i>.
