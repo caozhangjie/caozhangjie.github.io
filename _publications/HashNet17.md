@@ -1,7 +1,7 @@
 ---
 title: "HashNet: Deep Learning to Hash by Continuation"
 collection: publications
-permalink: /publications/ICCV17
+permalink: /publications/HashNet17
 venue: "International Conference on Computer Vision (ICCV) 2017"
 date: 2017-10-21
 citation: '<b>Zhangjie Cao</b>, Mingsheng Long, Jianmin Wang, Philip S. Yu. <i>International Conference on Computer Vision.</i> <b>ICCV 2017</b>.'
