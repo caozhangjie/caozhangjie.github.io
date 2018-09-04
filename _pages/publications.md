@@ -26,6 +26,8 @@ author_profile: true
 
 <b>[Partial Adversarial Domain Adaptation](http://caozhangjie.github.io/publications/PADA18)</b> <br> <b>Zhangjie Cao</b>, Lijia Ma, Mingsheng Long, Jianmin Wang. <i>European Conference on Computer Vision (ECCV), 2018.</i>
 
+<b>[Conditional Adversarial Domain Adaptation](http://caozhangjie.github.io/publications/CADA18)</b> <br> Mingsheng Long, <b>Zhangjie Cao</b>, Jianmin Wang, Michael I. Jordan. <i>Neural Information Processing Systems (NIPS), 2018.</i>
+
 ## Under Review
 
-<b>[Conditional Adversarial Domain Adaptation](http://caozhangjie.github.io/publications/CADA18)</b> <br> Mingsheng Long, <b>Zhangjie Cao</b>, Jianmin Wang, Michael I. Jordan. <i>Neural Information Processing Systems (NIPS), 2018.</i>
+
