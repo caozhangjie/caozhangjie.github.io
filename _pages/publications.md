@@ -16,7 +16,7 @@ author_profile: true
 
 <b>[Transfer Adversarial Hashing for Hamming Space Retrieval](http://caozhangjie.github.io/publications/TAH18)</b> <br> <b>Zhangjie Cao</b>, Mingsheng Long, Chao Huang, Jianmin Wang. <i>AAAI Conference on Artificial Intelligence (AAAI), 2018.</i>
 
-<b>[Multi-Adversarial Domain Adaptation](http://caozhangjie.github.io/publications/MADA18)</b> <br> Zhongyi Pei*, <b>Zhangjie Cao*</b>, Mingsheng Long, Jianmin Wang. <i>AAAI Conference on Artificial Intelligence (AAAI), 2018.</i> (*Equal Contribution)
+<b>[Multi-Adversarial Domain Adaptation](http://caozhangjie.github.io/publications/MADA18)</b> <br> Zhongyi Pei\*, <b>Zhangjie Cao\*</b>, Mingsheng Long, Jianmin Wang. <i>AAAI Conference on Artificial Intelligence (AAAI), 2018.</i> (\* means Equal Contribution)
 
 <b>[Learning Transferable Visual Features with Very Deep Adaptation Networks](http://caozhangjie.github.io/publications/VDAN18)</b> <br> Mingsheng Long, <b>Zhangjie Cao</b>, Jianmin Wang, Han Zhu, Michael I. Jordan. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i>
 
