@@ -12,6 +12,6 @@ redirect_from:
   <img src="https://caozhangjie.github.io/files/caozhangjie_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/) starting from Autumn 2018. Click [here](http://caozhangjie.github.io/files/caozhangjie_cv.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to [contact me](http://caozhangjie.github.io/contact/).
-* I received my Bachelor’s Degree in [Tsinghua University](http://www.tsinghua.edu.cn). My undergraduate research advisors are [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/) and [Prof. Qixing Huang](http://www.cs.utexas.edu/~huangqx/).
-* My research interests are machine learning and computer vision, particularly in deep transfer learning and video analysis, as well as their applications in various vision problems.
+*I am a Ph.D. student in the Department of Computer Science Department at Stanford University starting from Autumn 2018. I received my Bachelor’s Degree in Tsinghua University (2018) and my undergraduate research advisors were Prof. Mingsheng Long and Prof. Qixing Huang. Click [here](http://caozhangjie.github.io/files/caozhangjie_cv.pdf) to view my up-to-date CV.
+*My current research interests include machine learning and computer vision. Lately, I have been proposing novel problem in deep domain adaptation and developing algorithms and architectures to address them. I am also working on projects in video analysis grounded on some real-world applications.
+*Knowledge transfer is a interesting and charming topic. If you are also interested in this, feel free to contact with me.
