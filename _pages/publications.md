@@ -6,11 +6,13 @@ author_profile: true
 
 ## Published
 
-<b>[Learning to Transfer Examples for Partial Domain Adaptation](http://caozhangjie.github.io/publications/ETN19)</b> <br> <b>Zhangjie Cao</b>*, Kaichao You*, Mingsheng Long, Jianmin Wang, Qiang Yang. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2019.</i>
+<b>[Learning to Transfer Examples for Partial Domain Adaptation](http://caozhangjie.github.io/publications/ETN19)</b> <br> <b>Zhangjie Cao</b>\*, Kaichao You\*, Mingsheng Long, Jianmin Wang, Qiang Yang. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2019.</i> (\* means Equal Contribution)
 
-<b>[Separate to Adapt: Open Set Domain Adaptation via Progressive Separation](http://caozhangjie.github.io/publications/STA19)</b> <br> Hong Liu, <b>Zhangjie Cao</b>*, Mingsheng Long, Jianmin Wang, Qiang Yang. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2019.</i>
+<b>[Separate to Adapt: Open Set Domain Adaptation via Progressive Separation](http://caozhangjie.github.io/publications/STA19)</b> <br> Hong Liu\*, <b>Zhangjie Cao</b>\*, Mingsheng Long, Jianmin Wang, Qiang Yang. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2019.</i> (\* means Equal Contribution)
 
 <b>[Universal Domain Adaptation](http://caozhangjie.github.io/publications/UDA19)</b> <br> Kaichao You, <b>Zhangjie Cao</b>, Mingsheng Long, Jianmin Wang, Michael I. Jordan. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2019.</i>
+
+<b>[Transferable Curriculum for Weakly-Supervised Domain Adaptation](http://caozhangjie.github.io/publications/TCL19)</b> <br> Yang Shu, <b>Zhangjie Cao</b>, Mingsheng Long, Jianmin Wang. <i>AAAI Conference on Artificial Intelligence (AAAI), 2019.</i> (\* means Equal Contribution)
 
 <b>[Conditional Adversarial Domain Adaptation](http://caozhangjie.github.io/publications/CADA18)</b> <br> Mingsheng Long, <b>Zhangjie Cao</b>, Jianmin Wang, Michael I. Jordan. <i>Neural Information Processing Systems (NIPS), 2018.</i>
 
