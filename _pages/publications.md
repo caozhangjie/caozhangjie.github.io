@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Published
+## Conference Paper
 
 <b>[Learning to Transfer Examples for Partial Domain Adaptation](http://caozhangjie.github.io/publications/ETN19)</b> <br> <b>Zhangjie Cao</b>\*, Kaichao You\*, Mingsheng Long, Jianmin Wang, Qiang Yang. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2019.</i> (\* means Equal Contribution)
 
@@ -22,8 +22,6 @@ author_profile: true
 
 <b>[Partial Transfer Learning with Selective Adversarial Networks](http://caozhangjie.github.io/publications/SAN18)</b> <br> <b>Zhangjie Cao</b>, Mingsheng Long, Jianmin Wang, Michael I. Jordan. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2018.</i>
 
-<b>[Learning Transferable Visual Features with Very Deep Adaptation Networks](http://caozhangjie.github.io/publications/VDAN18)</b> <br> Mingsheng Long, <b>Zhangjie Cao</b>, Jianmin Wang, Han Zhu, Michael I. Jordan. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i>
-
 <b>[Multi-Adversarial Domain Adaptation](http://caozhangjie.github.io/publications/MADA18)</b> <br> Zhongyi Pei\*, <b>Zhangjie Cao\*</b>, Mingsheng Long, Jianmin Wang. <i>AAAI Conference on Artificial Intelligence (AAAI), 2018.</i> (\* means Equal Contribution)
 
 <b>[Transfer Adversarial Hashing for Hamming Space Retrieval](http://caozhangjie.github.io/publications/TAH18)</b> <br> <b>Zhangjie Cao</b>, Mingsheng Long, Chao Huang, Jianmin Wang. <i>AAAI Conference on Artificial Intelligence (AAAI), 2018.</i>
@@ -36,6 +34,12 @@ author_profile: true
 
 <b>[Transitive Hashing Network for Heterogeneous Multimedia Retrieval](http://caozhangjie.github.io/publications/THN17)</b> <br> <b>Zhangjie Cao</b>, Mingsheng Long, Qiang Yang. <i>AAAI Conference on Artificial Intelligence (AAAI), 2017.</i>
 
-## Under Review
+## Journal
 
+<b>[Learning Transferable Visual Features with Very Deep Adaptation Networks](http://caozhangjie.github.io/publications/VDAN18)</b> <br> Mingsheng Long, <b>Zhangjie Cao</b>, Jianmin Wang, Han Zhu, Michael I. Jordan. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i>
+
+
+## Workshop
+
+<b>[AlignFlow: Auto cycle-consistent domain translations via normalizing flows](http://caozhangjie.github.io/publications/AlignFlow)</b> <br> Aditya Grover, Christopher Chute, Rui Shu, <b>Zhangjie Cao</b>, Stefano Ermon. <i>ICLR 2019 Workshop DeepGenStruct.</i>
 
