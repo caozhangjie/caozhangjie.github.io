@@ -1,5 +1,5 @@
 ---
-title: "Learning Transferable Visual Features with Very Deep Adaptation Networks"
+title: "Transferable Representation Learning with Deep Adaptation Networks"
 collection: publications
 permalink: /publications/VDAN18
 venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"

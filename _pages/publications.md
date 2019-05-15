@@ -36,7 +36,7 @@ author_profile: true
 
 ## Journal
 
-<b>[Learning Transferable Visual Features with Very Deep Adaptation Networks](http://caozhangjie.github.io/publications/VDAN18)</b> <br> Mingsheng Long, Yue Cao, <b>Zhangjie Cao</b>, Jianmin Wang, Han Zhu, Michael I. Jordan. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i>
+<b>[Transferable Representation Learning with Deep Adaptation Networks](http://caozhangjie.github.io/publications/VDAN18)</b> <br> Mingsheng Long, Yue Cao, <b>Zhangjie Cao</b>, Jianmin Wang, Han Zhu, Michael I. Jordan. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i>
 
 
 ## Workshop
