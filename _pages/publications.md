@@ -14,7 +14,7 @@ author_profile: true
 
 <b>[Transferable Curriculum for Weakly-Supervised Domain Adaptation](http://caozhangjie.github.io/publications/TCL19)</b> <br> Yang Shu, <b>Zhangjie Cao</b>, Mingsheng Long, Jianmin Wang. <i>AAAI Conference on Artificial Intelligence (AAAI), 2019.</i>
 
-<b>[Conditional Adversarial Domain Adaptation](http://caozhangjie.github.io/publications/CADA18)</b> <br> Mingsheng Long, <b>Zhangjie Cao</b>, Jianmin Wang, Michael I. Jordan. <i>Neural Information Processing Systems (NIPS), 2018.</i>
+<b>[Conditional Adversarial Domain Adaptation](http://caozhangjie.github.io/publications/CADA18)</b> <br> Mingsheng Long, <b>Zhangjie Cao</b>, Jianmin Wang, Michael I. Jordan. <i>Neural Information Processing Systems (NeurIPS), 2018.</i>
 
 <b>[Partial Adversarial Domain Adaptation](http://caozhangjie.github.io/publications/PADA18)</b> <br> <b>Zhangjie Cao</b>, Lijia Ma, Mingsheng Long, Jianmin Wang. <i>European Conference on Computer Vision (ECCV), 2018.</i>
 
@@ -26,7 +26,7 @@ author_profile: true
 
 <b>[Transfer Adversarial Hashing for Hamming Space Retrieval](http://caozhangjie.github.io/publications/TAH18)</b> <br> <b>Zhangjie Cao</b>, Mingsheng Long, Chao Huang, Jianmin Wang. <i>AAAI Conference on Artificial Intelligence (AAAI), 2018.</i>
 
-<b>[Learning Multiple Tasks with Multilinear Relationship Networks](http://caozhangjie.github.io/publications/MRN17)</b> <br> Mingsheng Long, <b>Zhangjie Cao</b>, Jianmin Wang, Philip S. Yu. <i>Neural Information Processing Systems (NIPS), 2017.</i>
+<b>[Learning Multiple Tasks with Multilinear Relationship Networks](http://caozhangjie.github.io/publications/MRN17)</b> <br> Mingsheng Long, <b>Zhangjie Cao</b>, Jianmin Wang, Philip S. Yu. <i>Neural Information Processing Systems (NeurIPS), 2017.</i>
 
 <b>[HashNet: Deep Learning to Hash by Continuation](http://caozhangjie.github.io/publications/HashNet17)</b> <br> <b>Zhangjie Cao</b>, Mingsheng Long, Jianmin Wang, Philip S. Yu. <i>International Conference on Computer Vision (ICCV), 2017.</i>
 
@@ -36,7 +36,7 @@ author_profile: true
 
 ## Journal
 
-<b>[Transferable Representation Learning with Deep Adaptation Networks](http://caozhangjie.github.io/publications/VDAN18)</b> <br> Mingsheng Long, Yue Cao, <b>Zhangjie Cao</b>, Jianmin Wang, Han Zhu, Michael I. Jordan. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i>
+<b>[Transferable Representation Learning with Deep Adaptation Networks](https://ieeexplore.ieee.org/document/8454781)</b> <br> Mingsheng Long, Yue Cao, <b>Zhangjie Cao</b>, Jianmin Wang, Han Zhu, Michael I. Jordan. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i>
 
 
 ## Workshop
