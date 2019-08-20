@@ -20,3 +20,5 @@ International Journal of Computer Vision (IJCV) 2019
 Multimedia Tools and Applications 2019
 
 Neurocomputing 2019
+
+AAAI Conference on Artificial Intelligence (AAAI) 2019
