@@ -16,3 +16,7 @@ International Conference on Machine Learning (ICML) 2019
 Neural Information Processing Systems (NeurIPS) 2019
 
 International Journal of Computer Vision (IJCV) 2019
+
+Multimedia Tools and Applications 2019
+
+Neurocomputing 2019
