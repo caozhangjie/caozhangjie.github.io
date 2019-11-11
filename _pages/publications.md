@@ -6,6 +6,10 @@ author_profile: true
 
 ## Conference Paper
 
+<b>[Adversarial Cross-Domain Action Recognition with Co-Attention]()</b> <br> Boxiao Pan\*, <b>Zhangjie Cao</b>\*, Ehsan Adeli, Juan Carlos Niebles. <i>AAAI Conference on Artificial Intelligence (AAAI), 2020.</i> (\* means Equal Contribution)
+
+<b>[AlignFlow: Learning from Multiple Domains via Normalizing Flows]()</b> <br> Aditya Grover, Christopher Chute, Rui Shu, <b>Zhangjie Cao</b>, Stefano Ermon. <i>AAAI Conference on Artificial Intelligence (AAAI), 2020.</i>
+
 <b>[Learning to Transfer Examples for Partial Domain Adaptation](http://caozhangjie.github.io/publications/ETN19)</b> <br> <b>Zhangjie Cao</b>\*, Kaichao You\*, Mingsheng Long, Jianmin Wang, Qiang Yang. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2019.</i> (\* means Equal Contribution)
 
 <b>[Separate to Adapt: Open Set Domain Adaptation via Progressive Separation](http://caozhangjie.github.io/publications/STA19)</b> <br> Hong Liu\*, <b>Zhangjie Cao</b>\*, Mingsheng Long, Jianmin Wang, Qiang Yang. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2019.</i> (\* means Equal Contribution)
