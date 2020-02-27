@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/VideoDA20
 venue: "AAAI Conference on Artificial Intelligence (AAAI), 2020"
 date: 2020-02-07
-citation: 'Boxiao Pan\*, <b>Zhangjie Cao</b>\*, Ehsan Adeli, Juan Carlos Niebles. <i>AAAI Conference on Artificial Intelligence</i> <b>AAAI 2020</b>.'
+citation: 'Boxiao Pan*, <b>Zhangjie Cao</b>*, Ehsan Adeli, Juan Carlos Niebles. <i>AAAI Conference on Artificial Intelligence</i> <b>AAAI 2020</b>.'
 ---
 
 [[Arxiv]](https://arxiv.org/pdf/1912.10405.pdf)
