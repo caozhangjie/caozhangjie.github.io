@@ -6,6 +6,10 @@ author_profile: true
 
 ## Conference Paper
 
+<b>[Robust Learning Through Cross-Task Consistency]()</b> <br> Amir Zamir, Alexander Sax, Jitendra Malik, Nikhil Cheerla, Rohan Suri, <b>Zhangjie Cao</b>\*, Leonidas Guibas. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+
+<b>[Few-Shot Video Classification via Ordered Temporal Alignment]()</b> <br> Kaidi Cao, Jingwei Ji\*, <b>Zhangjie Cao</b>\*, Chien-Yi Chang, Juan Carlos Niebles. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.</i> (\* means Equal Contribution)
+
 <b>[Adversarial Cross-Domain Action Recognition with Co-Attention]()</b> <br> Boxiao Pan\*, <b>Zhangjie Cao</b>\*, Ehsan Adeli, Juan Carlos Niebles. <i>AAAI Conference on Artificial Intelligence (AAAI), 2020.</i> (\* means Equal Contribution)
 
 <b>[AlignFlow: Learning from Multiple Domains via Normalizing Flows]()</b> <br> Aditya Grover, Christopher Chute, Rui Shu, <b>Zhangjie Cao</b>, Stefano Ermon. <i>AAAI Conference on Artificial Intelligence (AAAI), 2020.</i>
