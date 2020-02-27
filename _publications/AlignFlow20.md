@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/AlignFlow20
 venue: "AAAI Conference on Artificial Intelligence (AAAI), 2020"
 date: 2020-2-7
-citation: 'Aditya Grover, Christopher Chute, Rui Shu, <b>Zhangjie Cao</b>, Stefano Ermon. <i>AAAI Conference on Artificial Intelligence</i> <b>AAAI 2018</b>.'
+citation: 'Aditya Grover, Christopher Chute, Rui Shu, <b>Zhangjie Cao</b>, Stefano Ermon. <i>AAAI Conference on Artificial Intelligence</i> <b>AAAI 2020</b>.'
 ---
 
 [[Arxiv]](https://arxiv.org/pdf/1905.12892.pdf)
