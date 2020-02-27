@@ -6,13 +6,13 @@ author_profile: true
 
 ## Conference Paper
 
-<b>[Robust Learning Through Cross-Task Consistency]()</b> <br> Amir Zamir, Alexander Sax, Jitendra Malik, Nikhil Cheerla, Rohan Suri, <b>Zhangjie Cao</b>\*, Leonidas Guibas. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+<b>[Robust Learning Through Cross-Task Consistency](http://caozhangjie.github.io/publications/Consistency20)</b> <br> Amir Zamir, Alexander Sax, Jitendra Malik, Nikhil Cheerla, Rohan Suri, <b>Zhangjie Cao</b>\*, Leonidas Guibas. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
 
-<b>[Few-Shot Video Classification via Ordered Temporal Alignment](https://arxiv.org/pdf/1906.11415.pdf)</b> <br> Kaidi Cao, Jingwei Ji\*, <b>Zhangjie Cao</b>\*, Chien-Yi Chang, Juan Carlos Niebles. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.</i> (\* means Equal Contribution)
+<b>[Few-Shot Video Classification via Ordered Temporal Alignment](http://caozhangjie.github.io/publications/FewShot20)</b> <br> Kaidi Cao, Jingwei Ji\*, <b>Zhangjie Cao</b>\*, Chien-Yi Chang, Juan Carlos Niebles. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.</i> (\* means Equal Contribution)
 
-<b>[Adversarial Cross-Domain Action Recognition with Co-Attention](https://arxiv.org/pdf/1912.10405.pdf)</b> <br> Boxiao Pan\*, <b>Zhangjie Cao</b>\*, Ehsan Adeli, Juan Carlos Niebles. <i>AAAI Conference on Artificial Intelligence (AAAI), 2020.</i> (\* means Equal Contribution)
+<b>[Adversarial Cross-Domain Action Recognition with Co-Attention](http://caozhangjie.github.io/publications/VideoDA20)</b> <br> Boxiao Pan\*, <b>Zhangjie Cao</b>\*, Ehsan Adeli, Juan Carlos Niebles. <i>AAAI Conference on Artificial Intelligence (AAAI), 2020.</i> (\* means Equal Contribution)
 
-<b>[AlignFlow: Learning from Multiple Domains via Normalizing Flows](https://arxiv.org/pdf/1905.12892.pdf)</b> <br> Aditya Grover, Christopher Chute, Rui Shu, <b>Zhangjie Cao</b>, Stefano Ermon. <i>AAAI Conference on Artificial Intelligence (AAAI), 2020.</i>
+<b>[AlignFlow: Learning from Multiple Domains via Normalizing Flows](http://caozhangjie.github.io/publications/AlignFlow20)</b> <br> Aditya Grover, Christopher Chute, Rui Shu, <b>Zhangjie Cao</b>, Stefano Ermon. <i>AAAI Conference on Artificial Intelligence (AAAI), 2020.</i>
 
 <b>[Learning to Transfer Examples for Partial Domain Adaptation](http://caozhangjie.github.io/publications/ETN19)</b> <br> <b>Zhangjie Cao</b>\*, Kaichao You\*, Mingsheng Long, Jianmin Wang, Qiang Yang. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2019.</i> (\* means Equal Contribution)
 
