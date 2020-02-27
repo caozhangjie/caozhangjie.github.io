@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/FewShot20
 venue: "Conference on Computer Vision and Pattern Recognition (CVPR), 2020"
 date: 2020-06-16
-citation: 'Kaidi Cao, Jingwei Ji\*, <b>Zhangjie Cao</b>\*, Chien-Yi Chang, Juan Carlos Niebles. <i>Conference on Computer Vision and Pattern Recognition</i> <b>CVPR 2020</b>.'
+citation: 'Kaidi Cao, Jingwei Ji*, <b>Zhangjie Cao</b>*, Chien-Yi Chang, Juan Carlos Niebles. <i>Conference on Computer Vision and Pattern Recognition</i> <b>CVPR 2020</b>.'
 ---
 
 [[Arxiv]](https://arxiv.org/pdf/1906.11415.pdf)
