@@ -10,6 +10,10 @@ author_profile: true
 
 <b>[Few-Shot Video Classification via Ordered Temporal Alignment](http://caozhangjie.github.io/publications/FewShot20)</b> <br> Kaidi Cao, Jingwei Ji\*, <b>Zhangjie Cao</b>\*, Chien-Yi Chang, Juan Carlos Niebles. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.</i> (\* means Equal Contribution)
 
+<b>[Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction](http://caozhangjie.github.io/publications/ICRA20)</b> <br> Bingbin Liu, Ehsan Adeli, Zhangjie Cao, Kuan-Hui Lee, Abhijeet Shenoi, Adrien Gaidon, Juan Carlos Niebles. <i>International Conference on Robotics and Automation (ICRA), 2020.</i>
+
+<b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://caozhangjie.github.io/publications/ECAI20)</b> <br> Yuxuan Song, Lantao Yu, <b>Zhangjie Cao</b>, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu. <i>European Conference on Artificial Intelligence (ECAI), 2020.</i>
+
 <b>[Adversarial Cross-Domain Action Recognition with Co-Attention](http://caozhangjie.github.io/publications/VideoDA20)</b> <br> Boxiao Pan\*, <b>Zhangjie Cao</b>\*, Ehsan Adeli, Juan Carlos Niebles. <i>AAAI Conference on Artificial Intelligence (AAAI), 2020.</i> (\* means Equal Contribution)
 
 <b>[AlignFlow: Learning from Multiple Domains via Normalizing Flows](http://caozhangjie.github.io/publications/AlignFlow20)</b> <br> Aditya Grover, Christopher Chute, Rui Shu, <b>Zhangjie Cao</b>, Stefano Ermon. <i>AAAI Conference on Artificial Intelligence (AAAI), 2020.</i>
