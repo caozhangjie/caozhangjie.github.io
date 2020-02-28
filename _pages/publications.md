@@ -48,6 +48,8 @@ author_profile: true
 
 ## Journal
 
+<b>[Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction](http://caozhangjie.github.io/publications/RAL20)</b> <br> Bingbin Liu, Ehsan Adeli, Zhangjie Cao, Kuan-Hui Lee, Abhijeet Shenoi, Adrien Gaidon, Juan Carlos Niebles. <i>IEEE Robotics and Automation Letters (RAL).</i>
+
 <b>[Transferable Representation Learning with Deep Adaptation Networks](http://caozhangjie.github.io/publications/VDAN18)</b> <br> Mingsheng Long, Yue Cao, <b>Zhangjie Cao</b>, Jianmin Wang, Han Zhu, Michael I. Jordan. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i>
 
 
