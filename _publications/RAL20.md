@@ -3,7 +3,7 @@ title: "Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction"
 collection: publications
 permalink: /publications/RAL20
 venue: "IEEE Robotics and Automation Letters (RAL), 2020"
-date: 2020
+date: 2020-01-01
 citation: 'Bingbin Liu, Ehsan Adeli, <b>Zhangjie Cao</b>, Kuan-Hui Lee, Abhijeet Shenoi, Adrien Gaidon, Juan Carlos Niebles. <i>IEEE Robotics and Automation Letters</i> <b>RAL 2020</b>.'
 ---
 
