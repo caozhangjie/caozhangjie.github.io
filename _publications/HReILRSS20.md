@@ -2,7 +2,7 @@
 title: "Reinforcement Learning based Control of Imitative Policies for Near-Accident Driving"
 collection: publications
 permalink: /publications/HReILRSS20
-venue: "RSS 2020"
+venue: "Robotics: Science and Systems"
 date: 2020-06-25
-citation: '<b>Zhangjie Cao</b>*, Erdem Bıyık*, Woodrow Z. Wang, Allan Raventos, Adrien Gaidon, Guy Rosman, Dorsa Sadigh. <i>RSS 2020</i>.'
+citation: '<b>Zhangjie Cao</b>*, Erdem Bıyık*, Woodrow Z. Wang, Allan Raventos, Adrien Gaidon, Guy Rosman, Dorsa Sadigh. <i>Robotics: Science and Systems 2020</i>.'
 ---
