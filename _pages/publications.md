@@ -6,6 +6,8 @@ author_profile: true
 
 ## Conference Paper
 
+<b>[Reinforcement Learning based Control of Imitative Policies for Near-Accident Driving](http://caozhangjie.github.io/publications/HReILRSS20)</b> <br> <b>Zhangjie Cao</b>*, Erdem Bıyık*, Woodrow Z. Wang, Allan Raventos, Adrien Gaidon, Guy Rosman, Dorsa Sadigh. <i>Robotics: Science and Systems (RSS), 2020.
+
 <b>[Robust Learning Through Cross-Task Consistency](http://caozhangjie.github.io/publications/Consistency20)</b> <br> Amir Zamir, Alexander Sax, Jitendra Malik, Nikhil Cheerla, Rohan Suri, <b>Zhangjie Cao</b>, Leonidas Guibas. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
 
 <b>[Few-Shot Video Classification via Ordered Temporal Alignment](http://caozhangjie.github.io/publications/FewShot20)</b> <br> Kaidi Cao, Jingwei Ji\*, <b>Zhangjie Cao</b>\*, Chien-Yi Chang, Juan Carlos Niebles. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.</i> (\* means Equal Contribution)
