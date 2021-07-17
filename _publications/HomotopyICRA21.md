@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/HomotopyICRA21
 venue: "RA-L with ICRA"
 date: 2021
-citation: '<b>Zhangjie Cao</b>, Dorsa Sadigh. <i>Robotics and Automation Letters (RA-L) with International Conference on Robotics and Automation (ICRA)</i>.'
+citation: '<b>Zhangjie Cao*</b>, Minae Kwon*, Dorsa Sadigh. <i>Robotics and Automation Letters (RA-L) with International Conference on Robotics and Automation (ICRA)</i>.'
 ---
 
 [[Arxiv]](https://arxiv.org/abs/2102.05207)
