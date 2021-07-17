@@ -3,7 +3,7 @@ title: "Learning from Imperfect Demonstrations from Agents with Varying Dynamics
 collection: publications
 permalink: /publications/ImperfectICRA21
 venue: "RA-L with ICRA"
-date: 2021
+date: 2021-05-30
 citation: '<b>Zhangjie Cao</b>, Dorsa Sadigh. <i>Robotics and Automation Letters (RA-L) with International Conference on Robotics and Automation (ICRA)</i>.'
 ---
 
