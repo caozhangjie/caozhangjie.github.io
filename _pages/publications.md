@@ -6,6 +6,10 @@ author_profile: true
 
 ## Conference Paper
 
+<b>[Learning from Imperfect Demonstrations from Agents with Varying Dynamics](http://caozhangjie.github.io/publications/ImperfectICRA21)</b> <br> <b>Zhangjie Cao</b>, Dorsa Sadigh. <i>Robotics and Automation Letters (RA-L) with International Conference on Robotics and Automation (ICRA), 2021.
+
+<b>[Transfer Reinforcement Learning across Homotopy Classes](http://caozhangjie.github.io/publications/HomotopyICRA21)</b> <br> <b>Zhangjie Cao</b>\*, Minae Kwon\*, Dorsa Sadigh. <i>Robotics and Automation Letters (RA-L) with International Conference on Robotics and Automation (ICRA), 2021. (* means Equal Contribution)
+
 <b>[Reinforcement Learning based Control of Imitative Policies for Near-Accident Driving](http://caozhangjie.github.io/publications/HReILRSS20)</b> <br> <b>Zhangjie Cao</b>\*, Erdem Bıyık\*, Woodrow Z. Wang, Allan Raventos, Adrien Gaidon, Guy Rosman, Dorsa Sadigh. <i>Robotics: Science and Systems (RSS), 2020. (* means Equal Contribution)
 
 <b>[Robust Learning Through Cross-Task Consistency](http://caozhangjie.github.io/publications/Consistency20)</b> <br> Amir Zamir, Alexander Sax, Jitendra Malik, Nikhil Cheerla, Rohan Suri, <b>Zhangjie Cao</b>, Leonidas Guibas. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
