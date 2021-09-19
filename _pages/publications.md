@@ -6,6 +6,8 @@ author_profile: true
 
 ## Conference Paper
 
+<b>[Learning Feasibility to Imitate Demonstrators with Different Dynamics](http://caozhangjie.github.io/publications/FeasibilityCoRL21)</b> <br> <b>Zhangjie Cao</b>, Yilun Hao, Mengxi Li, Dorsa Sadigh. <i>Conference on Robot Learning (CoRL), 2021.
+
 <b>[Learning from Imperfect Demonstrations from Agents with Varying Dynamics](http://caozhangjie.github.io/publications/ImperfectICRA21)</b> <br> <b>Zhangjie Cao</b>, Dorsa Sadigh. <i>Robotics and Automation Letters (RA-L) with International Conference on Robotics and Automation (ICRA), 2021.
 
 <b>[Transfer Reinforcement Learning across Homotopy Classes](http://caozhangjie.github.io/publications/HomotopyICRA21)</b> <br> <b>Zhangjie Cao</b>\*, Minae Kwon\*, Dorsa Sadigh. <i>Robotics and Automation Letters (RA-L) with International Conference on Robotics and Automation (ICRA), 2021. (* means Equal Contribution)
