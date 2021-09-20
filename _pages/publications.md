@@ -6,15 +6,15 @@ author_profile: true
 
 ## Conference Paper
 
-<b>[Learning Feasibility to Imitate Demonstrators with Different Dynamics](http://caozhangjie.github.io/publications/FeasibilityCoRL21)</b> <br> <b>Zhangjie Cao</b>, Yilun Hao, Mengxi Li, Dorsa Sadigh. <i>Conference on Robot Learning (CoRL), 2021.
+<b>[Learning Feasibility to Imitate Demonstrators with Different Dynamics](http://caozhangjie.github.io/publications/FeasibilityCoRL21)</b> <br> <b>Zhangjie Cao</b>, Yilun Hao, Mengxi Li, Dorsa Sadigh. <i>Conference on Robot Learning (CoRL), 2021. </i>
 
-<b>[Learning from Imperfect Demonstrations from Agents with Varying Dynamics](http://caozhangjie.github.io/publications/ImperfectICRA21)</b> <br> <b>Zhangjie Cao</b>, Dorsa Sadigh. <i>Robotics and Automation Letters (RA-L) with International Conference on Robotics and Automation (ICRA), 2021.
+<b>[Learning from Imperfect Demonstrations from Agents with Varying Dynamics](http://caozhangjie.github.io/publications/ImperfectICRA21)</b> <br> <b>Zhangjie Cao</b>, Dorsa Sadigh. <i>International Conference on Robotics and Automation (ICRA), 2021. </i>
 
-<b>[Transfer Reinforcement Learning across Homotopy Classes](http://caozhangjie.github.io/publications/HomotopyICRA21)</b> <br> <b>Zhangjie Cao</b>\*, Minae Kwon\*, Dorsa Sadigh. <i>Robotics and Automation Letters (RA-L) with International Conference on Robotics and Automation (ICRA), 2021. (* means Equal Contribution)
+<b>[Transfer Reinforcement Learning across Homotopy Classes](http://caozhangjie.github.io/publications/HomotopyICRA21)</b> <br> <b>Zhangjie Cao</b>\*, Minae Kwon\*, Dorsa Sadigh. <i>International Conference on Robotics and Automation (ICRA), 2021. </i> (* means Equal Contribution)
 
-<b>[Reinforcement Learning based Control of Imitative Policies for Near-Accident Driving](http://caozhangjie.github.io/publications/HReILRSS20)</b> <br> <b>Zhangjie Cao</b>\*, Erdem Bıyık\*, Woodrow Z. Wang, Allan Raventos, Adrien Gaidon, Guy Rosman, Dorsa Sadigh. <i>Robotics: Science and Systems (RSS), 2020. (* means Equal Contribution)
+<b>[Reinforcement Learning based Control of Imitative Policies for Near-Accident Driving](http://caozhangjie.github.io/publications/HReILRSS20)</b> <br> <b>Zhangjie Cao</b>\*, Erdem Bıyık\*, Woodrow Z. Wang, Allan Raventos, Adrien Gaidon, Guy Rosman, Dorsa Sadigh. <i>Robotics: Science and Systems (RSS), 2020. </i> (* means Equal Contribution)
 
-<b>[Robust Learning Through Cross-Task Consistency](http://caozhangjie.github.io/publications/Consistency20)</b> <br> Amir Zamir, Alexander Sax, Jitendra Malik, Nikhil Cheerla, Rohan Suri, <b>Zhangjie Cao</b>, Leonidas Guibas. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+<b>[Robust Learning Through Cross-Task Consistency](http://caozhangjie.github.io/publications/Consistency20)</b> <br> Amir Zamir, Alexander Sax, Jitendra Malik, Nikhil Cheerla, Rohan Suri, <b>Zhangjie Cao</b>, Leonidas Guibas. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020. </i>
 
 <b>[Few-Shot Video Classification via Ordered Temporal Alignment](http://caozhangjie.github.io/publications/FewShot20)</b> <br> Kaidi Cao, Jingwei Ji\*, <b>Zhangjie Cao</b>\*, Chien-Yi Chang, Juan Carlos Niebles. <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2020.</i> (\* means Equal Contribution)
 
@@ -56,9 +56,13 @@ author_profile: true
 
 ## Journal
 
-<b>[Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction](http://caozhangjie.github.io/publications/RAL20)</b> <br> Bingbin Liu, Ehsan Adeli, <b>Zhangjie Cao</b>, Kuan-Hui Lee, Abhijeet Shenoi, Adrien Gaidon, Juan Carlos Niebles. <i>IEEE Robotics and Automation Letters (RAL).</i>
+  <b>[Learning from Imperfect Demonstrations from Agents with Varying Dynamics](http://caozhangjie.github.io/publications/ImperfectICRA21)</b> <br> <b>Zhangjie Cao</b>, Dorsa Sadigh. <i>IEEE Robotics and Automation Letters (RAL), 2021.</i>
 
-<b>[Transferable Representation Learning with Deep Adaptation Networks](http://caozhangjie.github.io/publications/VDAN18)</b> <br> Mingsheng Long, Yue Cao, <b>Zhangjie Cao</b>, Jianmin Wang, Han Zhu, Michael I. Jordan. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i>
+<b>[Transfer Reinforcement Learning across Homotopy Classes](http://caozhangjie.github.io/publications/HomotopyICRA21)</b> <br> <b>Zhangjie Cao</b>\*, Minae Kwon\*, Dorsa Sadigh. <i>IEEE Robotics and Automation Letters (RAL), 2021. </i> (* means Equal Contribution)
+  
+<b>[Spatiotemporal Relationship Reasoning for Pedestrian Intent Prediction](http://caozhangjie.github.io/publications/RAL20)</b> <br> Bingbin Liu, Ehsan Adeli, <b>Zhangjie Cao</b>, Kuan-Hui Lee, Abhijeet Shenoi, Adrien Gaidon, Juan Carlos Niebles. <i>IEEE Robotics and Automation Letters (RAL), 2020.</i>
+
+<b>[Transferable Representation Learning with Deep Adaptation Networks](http://caozhangjie.github.io/publications/VDAN18)</b> <br> Mingsheng Long, Yue Cao, <b>Zhangjie Cao</b>, Jianmin Wang, Han Zhu, Michael I. Jordan. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018.</i>
 
 
 ## Workshop
