@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Click to View My Up-to-date Curriculum Vitae PDF (TBD)
-
-[Click to View My Up-to-date Resume PDF](http://caozhangjie.github.io/files/caozhangjie_cv.pdf)
+[Click to View My Up-to-date Resume [PDF]](http://caozhangjie.github.io/files/caozhangjie_cv.pdf)
 
 <!-- <embed src="http://caozhangjie.github.io/files/caozhangjie_cv.pdf" width="650" height="1800" type='application/pdf'> -->
-
